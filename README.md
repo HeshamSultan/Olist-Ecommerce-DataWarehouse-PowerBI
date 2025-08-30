@@ -23,9 +23,9 @@ End-to-End Data Engineering & BI Project on the Brazilian Olist E-commerce datas
 ## 🛠 Tools
 - PostgreSQL
 - SQL
-- Python
+- PySpark
 - Power BI
 
 ## 🔗 Dashboard & Repo
 - Power BI file: `olist_report.pbix`
-- Screenshots: `/Dolist_report
+- Screenshots: `Dashboard images`
